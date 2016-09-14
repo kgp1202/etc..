@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\kim\documents\기타\op ping test\op ping test\소스.cpp(19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+  OP ping test.vcxproj -> C:\Users\Kim\Documents\기타\OP ping test\Debug\OP ping test.exe
